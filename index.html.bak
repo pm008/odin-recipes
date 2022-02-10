@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<h1>Odin Recipes</h1>
+<h2>Lasagna Receta Original</h2>
+<p>La lasaña de carne a la boloñesa no es sólo el plato favorito de Garfield, 
+es uno de los platos más famosos e internacionales de la cocina italiana. </p>
+<p>La lasaña tal y como la conocemos hoy, no se popularizó hasta <strong>bien 
+entrado el siglo XVII y se preparaba con todo tipo de carnes asadas</strong> y sobras. 
+que se agregan a la salsa de tomate.</p>
+<a href="Lasagna.html">Lasagna Receta</a>
+<h3>Receta</h3>
+<h3>Ingredientes</h3>
+<ul>
+<li>12 láminas de lasaña</li>
+<li>70 gramos de parmesano rallado</li>
+<li>Mantequilla</li>
+<li>300 gramos de carne picada (queda más jugosa con mezcla de cerdo y ternera)</li>
+<li>Medio vaso de vino blanco</li>
+<li>250 gramos de tomate entero pelado</li>
+<li>1 zanahoria</li>
+<li>1 cebolla</li>
+<li>Aceite de oliva</li>
+<li>Sal</li>
+<li>Pimienta</li>
+</ul>
+<ul>
+<h3>Para la bechamel:</h3>
+<li>50 gramos de mantequilla</li>
+<li>50 gramos de harina</li>
+<li>Medio litro de leche</li>
+<li>Sal</li>
+<li>Pimienta</li>
+</ul>
+<h3>Elaboración</h3>
+<ol>
+<li>En una cacerola calienta tres cucharadas de aceite de oliva y añade la zanahoria y la cebolla bien picadas. 
+Cuando la cebolla esté bien dorada añadimos la carne y dejamos que también se dore.</li>
+<li>Entonces echamos el vaso de vino y dejamos que se evapore.</li>
+<li>Tras esto, añadimos los tomates cortados y sin pepitas, salpimentamos al gusto y 
+dejamos cocer la salsa durante media hora.</li>
+<li>Mientras se cuece la salsa boloñesa podemos hacer la bechamel. 
+En una sartén derrite la mantequilla y añade la harina. 
+Sin parar de remover en ningún momento ve añadiendo leche caliente 
+hasta que la salsa comience a hervir. Añade la sal, reduce el fuego 
+y cocina durante unos veinte minutos. Tienes que remover para que no se formen grumos. 
+Salpimenta al gusto.</li>
+<li>Pon las láminas de pasta en agua hirviendo con sal y cuando estén al dente, 
+colócalas sobre un trapo (sepáralas para que no se peguen entre ellas).</li>
+<li>Y llegamos a la parte final de la preparación, montar la lasaña. 
+En una fuente para el horno unta la base de mantequilla y 
+cubre la base con una primera capa de pasta. Añade una capa de salsa boloñesa, 
+otra de bechamel, espolvorea con queso rallado, pon un poco de mantequilla y 
+otra capa de pasta. Y así hasta terminar los ingredientes. 
+Puedes corona la lasaña con una capa de carne, bechamel y queso, o con láminas de pasta.</li>
+<li>Introduce la lasaña en el horno y cocínala a 180 grados durante media hora.</li>
+</ol>
+</body>
+
+
+
+</html>
